@@ -2,7 +2,7 @@
 let cart = {};
 let catalog = {
         '11111': {
-            img: 'img/milk.png',
+            img: 'milk.png',
             name: 'Молоко',
             price: '20',
             amount: 0,
@@ -10,7 +10,7 @@ let catalog = {
             count: 0
         },
         '111112': {
-            img: 'img/bananas.png',
+            img: 'bananas.png',
             name: 'Бананы',
             price: '100',
             amount: 0,
@@ -18,7 +18,7 @@ let catalog = {
             count: 0
         },
         '22236': {
-            img: 'img/tomato.png',
+            img: 'tomato.png',
             name: 'Помидоры',
             price: '50',
             amount: 0,
